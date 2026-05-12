@@ -28,8 +28,4 @@ Este proyecto fue creado como práctica de desarrollo front-end, simulando una l
 
 ## Vista previa
 
-(Agregar captura de pantalla si deseas mejorar el portfolio)
-
-## Autor
-
-Desarrollado por Romina Navarrete
+<img width="1920" height="2415" alt="screencapture-rominarg-github-io-landing-black-friday-2026-05-12-20_28_39" src="https://github.com/user-attachments/assets/d446cea3-9b83-4358-a873-9157d06a4067" />
